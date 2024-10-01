@@ -3,7 +3,7 @@ import socket
 import json
 import time
 
-UDP_IP = "127.0.0.1"
+UDP_IP = "127.0.0.1" #change this to the IP address of the machine running the Reciver.py
 UDP_PORT = 5005
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)

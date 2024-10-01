@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 
 public class CubePositionSender : MonoBehaviour
 {
-    private const string UDP_IP = "127.0.0.1";
+    private const string UDP_IP = "127.0.0.1"; //change this to the IP address of the machine running the Reciver.py
     private const int UDP_PORT = 5005;
 
     private UdpClient udpClient;
