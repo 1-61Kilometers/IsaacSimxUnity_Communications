@@ -10,10 +10,6 @@ This project facilitates communication between NVIDIA Isaac Sim and Unity. It pr
 2. Open Unity and load the provided Unity project.
 3. Run the communication scripts to start data exchange between Isaac Sim and Unity.
 
-## Contributing
-
-We welcome contributions! Please fork the repository and submit a pull request with your changes. Ensure that your code follows the project's coding standards and includes appropriate tests.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
